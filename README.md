@@ -15,3 +15,7 @@
 ![2022-11-20 (2)](https://user-images.githubusercontent.com/115775237/202905253-7b799096-b0c3-41c7-a1de-ae37a2fb814d.png)
 
 ![2022-11-20 (3)](https://user-images.githubusercontent.com/115775237/202905273-8aafb8b5-dab8-495b-b77b-101fbd380278.png)
+
+**Flowchart**
+
+![2022-11-21 (1)](https://user-images.githubusercontent.com/115775237/203047995-144a265a-eeb1-4384-9fd4-5f9ad4c4ac9f.png)
