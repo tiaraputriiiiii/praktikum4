@@ -20,3 +20,5 @@
 **Flowchart**
 
 ![2022-11-21 (2)](https://user-images.githubusercontent.com/115775237/203051918-1d26ae86-266d-4bd0-a5f1-e42e414375e4.png)
+
+**Penjelasan**
