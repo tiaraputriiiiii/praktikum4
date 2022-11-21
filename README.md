@@ -7,7 +7,8 @@
     Buat program sederhana untuk menambahkan data kedalam sebuah
     list dengan rincian sebagai berikut:
       • Progam meminta memasukkan data sebanyak-banyaknya (gunakan perulangan)
-      • Tampilkan pertanyaan untuk menambah data (y/t?), apabila jawaban t (Tidak), maka program akan menampilkan daftar datanya. • Nilai Akhir diambil dari perhitungan         komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
+      • Tampilkan pertanyaan untuk menambah data (y/t?), apabila jawaban t (Tidak), maka program akan menampilkan daftar datanya. 
+      • Nilai Akhir diambil dari perhitungan komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
       • Buat flowchart dan penjelasan programnya
 
 ![2022-11-20 (1)](https://user-images.githubusercontent.com/115775237/202905224-f749f1e7-caf8-42c8-8bf4-08bf3ae05f58.png)
