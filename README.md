@@ -1,6 +1,6 @@
-# NAMA      : TIARA PUTRI
-# NIM       : 312210064
-# KELAS     : TI.22.A1
+# NAMA : TIARA PUTRI
+# NIM : 312210064
+# KELAS : TI.22.A1
 
 **Latihan**
 
